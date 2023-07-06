@@ -1,0 +1,6 @@
+1,Ahmed,29/12/1997,Ahmed@gmail.com,01121872116
+2,hesho,29/29/1997,hesho@gmail.com,01121888
+3,muhammed,1/2/2001,mu@gmail,01151832806
+4,muhammed,hh,hgjhl,12345678900
+5,mohahsg,27/100,nu.ed,01276315694
+6,braa,1/2/3,dsukn,01121122213
